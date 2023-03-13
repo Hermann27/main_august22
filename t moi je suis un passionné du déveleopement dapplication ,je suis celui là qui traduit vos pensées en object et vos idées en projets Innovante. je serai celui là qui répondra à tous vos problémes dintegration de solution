@@ -1,0 +1,42 @@
+[33mcommit 5c0ccdb22a8b399a6716fe460d34ca24b48ce4ea[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 47376ca b1af355
+Author: hdjoumdjeu <hermannpougoue1@gmail.com>
+Date:   Sun Mar 5 23:21:44 2023 -0600
+
+    Merge branch 'main' into develop
+
+[33mcommit 47376cafc90f92d8bb19d7c52bb2f00bace18242[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: hdjoumdjeu <hermannpougoue1@gmail.com>
+Date:   Sun Mar 5 17:58:05 2023 -0600
+
+    Three fils have been added into this repo.
+
+ create mode 100644 Kubernetesproj
+ create mode 100644 ansibleproj
+ create mode 100644 terraformproj
+
+[33mcommit b1af3553cc734f078012beab065ab2bbe0428fbc[m
+Author: hdjoumdjeu <hermannpougoue1@gmail.com>
+Date:   Sun Mar 5 17:11:34 2023 -0600
+
+    Three fils have been created on this develop repo
+
+ create mode 100644 Kubernetesproj
+ create mode 100644 ansibleproj
+ create mode 100644 terraformproj
+
+[33mcommit 007875d3ff909ff35cfa9576debb0e3d63c6aba3[m
+Author: Hermann27 <63571322+Hermann27@users.noreply.github.com>
+Date:   Sun Mar 5 16:49:36 2023 -0600
+
+    Create devopsproj
+
+ create mode 100644 devopsproj
+
+[33mcommit 6a01a94fc2aa5b367acb62fc94804966a5292504[m
+Author: Hermann27 <63571322+Hermann27@users.noreply.github.com>
+Date:   Sun Mar 5 16:45:34 2023 -0600
+
+    Initial commit
+
+ create mode 100644 README.md
